@@ -8,3 +8,6 @@ You can also find the [code and technical details here!](https://github.com/ntwi
 
 If you would like to play with the visualization yourself, [click here!](https://datumco.io/d3/tweet-groups/)
 
+Datum & Co. is a boutique data science consulting firm, if you would like to learn more about our services [please follow this link](https://datumco.io/services/)
+
+[Add me on LinkedIn!](https://www.linkedin.com/in/nathanwieneke)
